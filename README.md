@@ -1,2 +1,2 @@
 # PrimeiraatividadePmobile
-aplicação com 5 telas
+Aplicação em Android Studio com 5 telas simples
